@@ -1,4 +1,4 @@
-package com.anish.trust_fall.MockLocation;
+package android.src.main.java.com.anish.trust_fall.MockLocation;
 
 import java.util.Timer;
 import java.util.TimerTask;
